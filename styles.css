@@ -26,6 +26,7 @@ header {
   overflow-x: auto;
   margin: 1rem 0;
   max-width: calc(100vw - 2rem);
+  gap: 10px;
 }
 
 #ramen-menu img {
